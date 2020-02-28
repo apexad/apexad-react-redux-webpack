@@ -1,0 +1,32 @@
+{
+  "tests": [
+    {
+      "name": "test1",
+      "data": "data1"
+    },
+    {
+      "name": "test2",
+      "data": "data2"
+    },
+    {
+      "name": "test3",
+      "data": "data3"
+    },
+    {
+      "name": "test4",
+      "data": "data4"
+    },
+    {
+      "name": "test5",
+      "data": "data5"
+    },
+    {
+      "name": "test6",
+      "data": "data6"
+    },
+    {
+      "name": "test7",
+      "data": "data7"
+    }
+  ]
+}
