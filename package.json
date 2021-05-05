@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --open --mode development",
+    "start": "webpack serve --open --mode development",
     "build": "webpack --mode production",
     "start:server": "json-server --watch test.json",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,8 +21,7 @@
     "html-loader": "^2.1.2",
     "html-webpack-plugin": "^5.3.1",
     "webpack": "^5.36.2",
-    "webpack-cli": "^4.6.0",
-    "webpack-dev-server": "^3.11.2"
+    "webpack-cli": "^4.6.0"
   },
   "dependencies": {
     "axios": "^0.21.1",
